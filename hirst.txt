@@ -1,0 +1,19 @@
+debug_nuking 
+
+ADIPLO 
+
+allowdiplo 
+
+ai_accept
+
+political_power 
+
+ws 100
+
+research_on_icon_click 
+
+
+Manpower
+
+
+ai_accept
